@@ -1,7 +1,5 @@
 # Breast_Cancer_Classifiction_Using_Neural_Network
-Title: Comprehensive Breast Cancer Dataset
 
-Description:
 The Comprehensive Breast Cancer Dataset is a meticulously curated and extensive collection of medical data designed to facilitate cutting-edge research and analysis in the field of breast cancer. This dataset serves as a valuable resource for medical professionals, researchers, and data scientists aiming to enhance their understanding of breast cancer, its various attributes, and the factors that influence its occurrence and progression.
 
 Containing a wealth of information gathered from diverse sources, this dataset encompasses a wide range of clinical, histopathological, and demographic features associated with breast cancer cases. It offers a detailed view of both benign and malignant cases, providing an opportunity to study the distinctive characteristics that differentiate them. 
